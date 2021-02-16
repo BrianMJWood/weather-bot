@@ -146,4 +146,5 @@ client.on('message', message => {
     }
 });
 
-client.login('NzYzMDg0Mzg5MDUwODc1OTQ1.X3yjtw.587DjVskrEg7zFQKFt3FgJX_X-8');
+// Obtain and enter your bot token from Discord.
+client.login('token goes here');

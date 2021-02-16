@@ -2,4 +2,4 @@
 
 // Run 'node .' to fire up the bot
 
-// It probably won't work for you since it's configured specifically for one private server.
+// Obtain a bot token from Discord and edit it into the bottom of main.js
